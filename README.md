@@ -6,7 +6,7 @@ This React application interacts with the [Plant.id](https://plant.id/) API and 
 
 This project was developed by [Kai Meikle](https://github.com/kai-commits), [Krismina La](https://github.com/arismink) and [Nathan Tsang](https://github.com/nathan-ts).
 
-The live version of our project can be viewed [here](https://herbiview.herokuapp.com/).
+Check it out live on [Heroku](https://herbiview.herokuapp.com/)!
 
 ## Final Product
 
